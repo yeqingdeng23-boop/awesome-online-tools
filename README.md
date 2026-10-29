@@ -84,7 +84,7 @@ Every category, with its full tool list below.
 | [Utility Tools](https://www.onlinetoolkithub.com/category/utility) | Free online utility tools for unit conversion, timers, random generators, QR codes and validators. Fast, simple and no sign-up required. |
 
 <a name="pdf-tools"></a>
-## PDF Tools (27)
+## PDF Tools (28)
 
 Merge, split, compress, convert and edit PDF files in your browser.
 
@@ -111,6 +111,7 @@ Merge, split, compress, convert and edit PDF files in your browser.
 | [PDF Metadata Editor](https://www.onlinetoolkithub.com/tools/pdf-metadata-editor) | View and edit a PDF's title, author, subject and other metadata. |
 | [Text to PDF Converter](https://www.onlinetoolkithub.com/tools/text-to-pdf) | Turn plain text or pasted notes into a downloadable, paginated PDF. |
 | [PDF to PNG Converter](https://www.onlinetoolkithub.com/tools/pdf-to-png) | Convert every page of a PDF into a separate, high-resolution PNG image. |
+| [Photo Issue Report Builder](https://tooljovia.com/tools/photo-issue-report-builder/) | Build photo issue reports with PDF, CSV and editable JSON exports. |
 | [Redact PDF](https://www.onlinetoolkithub.com/tools/redact-pdf) | Black out sensitive text or areas on a PDF page before sharing it. |
 | [Sign PDF](https://www.onlinetoolkithub.com/tools/sign-pdf) | Draw a signature and place it anywhere on a PDF page, right in your browser. |
 | [PDF Page Size Converter](https://www.onlinetoolkithub.com/tools/pdf-page-size-converter) | Resize every page in a PDF to A4, Letter, Legal or A5 in one click. |
